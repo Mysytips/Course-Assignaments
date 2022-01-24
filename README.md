@@ -1,2 +1,2 @@
-# Course-Assignaments
+# Course-Assignments
 Coursera Coding Assignments
